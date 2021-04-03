@@ -11,8 +11,6 @@
 I'm a Full-Stack Developer living in Goa IN.
 
         </h1>
-
-
      </div>
 
 
